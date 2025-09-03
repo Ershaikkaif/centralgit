@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1756919205,,"wq!"
+|2,0,1756919817,,"wq!"
 :q!
 |2,0,1756318383,,"q!"
 
@@ -27,34 +27,50 @@
 # Registers:
 
 # File marks:
-'0  1  23  ~/myfile
-|4,48,1,23,1756919205,"~/myfile"
-'1  5  22  ~/mumbaigit/myfile
-|4,49,5,22,1756720762,"~/mumbaigit/myfile"
-'2  5  15  ~/file1
-|4,50,5,15,1756661129,"~/file1"
+'0  3  24  ~/myfile
+|4,48,3,24,1756919817,"~/myfile"
+'1  1  23  ~/myfile
+|4,49,1,23,1756919205,"~/myfile"
+'2  1  23  ~/myfile
+|4,50,1,23,1756919205,"~/myfile"
 '3  5  22  ~/mumbaigit/myfile
-|4,51,5,22,1756631987,"~/mumbaigit/myfile"
-'4  1  0  ~/mumbaigit/file2
-|4,52,1,0,1756318383,"~/mumbaigit/file2"
-'5  1  0  ~/mumbaigit/.gitignore
-|4,53,1,0,1756318037,"~/mumbaigit/.gitignore"
-'6  3  23  ~/mumbaigit/myfile
-|4,54,3,23,1756317552,"~/mumbaigit/myfile"
-'7  3  23  ~/mumbaigit/myfile
-|4,55,3,23,1756317552,"~/mumbaigit/myfile"
+|4,51,5,22,1756720762,"~/mumbaigit/myfile"
+'4  5  15  ~/file1
+|4,52,5,15,1756661129,"~/file1"
+'5  5  22  ~/mumbaigit/myfile
+|4,53,5,22,1756631987,"~/mumbaigit/myfile"
+'6  1  0  ~/mumbaigit/file2
+|4,54,1,0,1756318383,"~/mumbaigit/file2"
+'7  1  0  ~/mumbaigit/.gitignore
+|4,55,1,0,1756318037,"~/mumbaigit/.gitignore"
 '8  3  23  ~/mumbaigit/myfile
 |4,56,3,23,1756317552,"~/mumbaigit/myfile"
 '9  3  23  ~/mumbaigit/myfile
 |4,57,3,23,1756317552,"~/mumbaigit/myfile"
 
 # Jumplist (newest first):
+-'  3  24  ~/myfile
+|4,39,3,24,1756919817,"~/myfile"
+-'  1  23  ~/myfile
+|4,39,1,23,1756919775,"~/myfile"
 -'  1  23  ~/myfile
 |4,39,1,23,1756919205,"~/myfile"
 -'  5  22  ~/mumbaigit/myfile
 |4,39,5,22,1756720762,"~/mumbaigit/myfile"
 -'  5  22  ~/mumbaigit/myfile
 |4,39,5,22,1756720762,"~/mumbaigit/myfile"
+-'  5  22  ~/mumbaigit/myfile
+|4,39,5,22,1756720762,"~/mumbaigit/myfile"
+-'  5  22  ~/mumbaigit/myfile
+|4,39,5,22,1756720762,"~/mumbaigit/myfile"
+-'  5  15  ~/file1
+|4,39,5,15,1756661129,"~/file1"
+-'  5  15  ~/file1
+|4,39,5,15,1756661129,"~/file1"
+-'  5  15  ~/file1
+|4,39,5,15,1756661129,"~/file1"
+-'  5  15  ~/file1
+|4,39,5,15,1756661129,"~/file1"
 -'  5  15  ~/file1
 |4,39,5,15,1756661129,"~/file1"
 -'  5  15  ~/file1
@@ -71,6 +87,22 @@
 |4,39,1,0,1756661110,"~/file1"
 -'  1  0  ~/file1
 |4,39,1,0,1756661110,"~/file1"
+-'  1  0  ~/file1
+|4,39,1,0,1756661110,"~/file1"
+-'  1  0  ~/file1
+|4,39,1,0,1756661110,"~/file1"
+-'  1  0  ~/file1
+|4,39,1,0,1756661110,"~/file1"
+-'  1  0  ~/file1
+|4,39,1,0,1756661110,"~/file1"
+-'  5  22  ~/mumbaigit/myfile
+|4,39,5,22,1756631987,"~/mumbaigit/myfile"
+-'  5  22  ~/mumbaigit/myfile
+|4,39,5,22,1756631987,"~/mumbaigit/myfile"
+-'  5  22  ~/mumbaigit/myfile
+|4,39,5,22,1756631987,"~/mumbaigit/myfile"
+-'  5  22  ~/mumbaigit/myfile
+|4,39,5,22,1756631987,"~/mumbaigit/myfile"
 -'  5  22  ~/mumbaigit/myfile
 |4,39,5,22,1756631987,"~/mumbaigit/myfile"
 -'  5  22  ~/mumbaigit/myfile
@@ -91,6 +123,50 @@
 |4,39,3,23,1756631942,"~/mumbaigit/myfile"
 -'  3  23  ~/mumbaigit/myfile
 |4,39,3,23,1756631942,"~/mumbaigit/myfile"
+-'  3  23  ~/mumbaigit/myfile
+|4,39,3,23,1756631942,"~/mumbaigit/myfile"
+-'  3  23  ~/mumbaigit/myfile
+|4,39,3,23,1756631942,"~/mumbaigit/myfile"
+-'  3  23  ~/mumbaigit/myfile
+|4,39,3,23,1756631942,"~/mumbaigit/myfile"
+-'  3  23  ~/mumbaigit/myfile
+|4,39,3,23,1756631942,"~/mumbaigit/myfile"
+-'  3  23  ~/mumbaigit/myfile
+|4,39,3,23,1756631942,"~/mumbaigit/myfile"
+-'  3  23  ~/mumbaigit/myfile
+|4,39,3,23,1756631942,"~/mumbaigit/myfile"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
+-'  1  0  ~/mumbaigit/file2
+|4,39,1,0,1756318383,"~/mumbaigit/file2"
 -'  1  0  ~/mumbaigit/file2
 |4,39,1,0,1756318383,"~/mumbaigit/file2"
 -'  1  0  ~/mumbaigit/file2
@@ -173,91 +249,16 @@
 |4,39,1,0,1756318037,"~/mumbaigit/.gitignore"
 -'  1  0  ~/mumbaigit/.gitignore
 |4,39,1,0,1756318037,"~/mumbaigit/.gitignore"
--'  1  0  ~/mumbaigit/.gitignore
-|4,39,1,0,1756318037,"~/mumbaigit/.gitignore"
--'  1  0  ~/mumbaigit/.gitignore
-|4,39,1,0,1756318037,"~/mumbaigit/.gitignore"
--'  1  0  ~/mumbaigit/.gitignore
-|4,39,1,0,1756318037,"~/mumbaigit/.gitignore"
--'  1  0  ~/mumbaigit/.gitignore
-|4,39,1,0,1756318037,"~/mumbaigit/.gitignore"
--'  1  0  ~/mumbaigit/.gitignore
-|4,39,1,0,1756318037,"~/mumbaigit/.gitignore"
--'  1  0  ~/mumbaigit/.gitignore
-|4,39,1,0,1756318037,"~/mumbaigit/.gitignore"
--'  1  0  ~/mumbaigit/.gitignore
-|4,39,1,0,1756318037,"~/mumbaigit/.gitignore"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  3  23  ~/mumbaigit/myfile
-|4,39,3,23,1756317552,"~/mumbaigit/myfile"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
--'  1  21  ~/file1
-|4,39,1,21,1756317418,"~/file1"
 
 # History of marks within files (newest to oldest):
 
 > ~/myfile
-	*	1756919199	0
-	"	1	23
-	^	1	24
-	.	1	23
-	+	1	23
+	*	1756919811	0
+	"	3	24
+	^	3	25
+	.	3	24
+	+	1	24
+	+	3	24
 
 > ~/mumbaigit/myfile
 	*	1756720758	0
